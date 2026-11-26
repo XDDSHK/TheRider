@@ -67,3 +67,6 @@ Ideas, bug reports and pull requests are welcome. Open an issue and tell us what
 
 License
 MIT © 2026 Eddie Schievink (EDDSHK)
+
+<img width="2520" height="900" alt="xddshk-logo-white" src="https://github.com/user-attachments/assets/3494ed67-234a-4175-9741-1be01b5a9f70" />
+
