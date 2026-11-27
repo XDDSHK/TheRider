@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="currentColor">
-<path fill-rule="evenodd" d="M22 2h76a20 20 0 0 1 20 20v76a20 20 0 0 1-20 20H22A20 20 0 0 1 2 98V22A20 20 0 0 1 22 2zm0 9a11 11 0 0 0-11 11v76a11 11 0 0 0 11 11h76a11 11 0 0 0 11-11V22a11 11 0 0 0-11-11z"/>
-<g transform="rotate(-4 60 40)"><polygon points="22,30 25,33 22,36 25,39 22,42 25,45 22,48 98,50 95,47 98,44 95,41 98,38 95,35 98,32"/></g>
-<g transform="rotate(3 60 66)"><polygon points="51,40 70,40 70,94 67,97 64,94 61,97 58,94 55,97 51,94"/></g>
-<rect x="80" y="82" width="16" height="7" rx="1" transform="rotate(-18 88 85)"/>
-</svg>
