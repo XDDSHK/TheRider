@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo/lockup.svg" alt="TheRider" width="360"></p>
+<p align="center"><img src="lockup.svg" alt="TheRider" width="360"></p>
 
 <p align="center"><b>One rider. Every venue.</b><br>
 A free, open-source rider builder for bands, tour managers, promoters and venues.<br>
@@ -10,9 +10,9 @@ TheRider lets you build your technical rider once, from stage plot to lighting p
 
 No account. No paywall. Everything is saved in your own browser.
 
-![TheRider home](docs/screenshots/home.png)
+![TheRider home](shot-home.png)
 
-![Rider editor](docs/screenshots/rider-editor.png)
+![Rider editor](shot-rider-editor.png)
 
 ## What it does
 
@@ -78,27 +78,27 @@ No account. No paywall. Everything is saved in your own browser.
 - Share a rider with one link (WhatsApp, email); whoever opens it gets a copy
 - Riders in many languages, plus an email to the venue in their language (see below)
 
-![3D view](docs/screenshots/3d-view.png)
+![3D view](shot-3d-view.png)
 
-![Effects plot in 3D](docs/screenshots/effects-3d.png)
+![Effects plot in 3D](shot-effects-3d.png)
 
-![Example bands](docs/screenshots/example-bands.png)
+![Example bands](shot-example-bands.png)
 
-![Barrier and pit security in 3D](docs/screenshots/security-3d.png)
+![Barrier and pit security in 3D](shot-security-3d.png)
 
-![Signal flow](docs/screenshots/signal-flow.png)
+![Signal flow](shot-signal-flow.png)
 
-![Dressing room plot](docs/screenshots/dressing-room.png)
+![Dressing room plot](shot-dressing-room.png)
 
-![Rigging](docs/screenshots/rigging.png)
+![Rigging](shot-rigging.png)
 
-![PA plan](docs/screenshots/pa-plan.png)
+![PA plan](shot-pa-plan.png)
 
-![Festival timetable](docs/screenshots/festival-timetable.png)
+![Festival timetable](shot-festival-timetable.png)
 
-![Venue fit](docs/screenshots/venue-fit.png)
+![Venue fit](shot-venue-fit.png)
 
-![Changeovers](docs/screenshots/changeovers.png)
+![Changeovers](shot-changeovers.png)
 
 ## Install on your phone
 
@@ -140,7 +140,7 @@ manifest.webmanifest, sw.js, icon-*.png, apple-touch-icon.png
                     make it installable and work offline
 assets/logo/        TheRider logo (mark, mono mark, lockup)
 design/tokens.json  colours, type and spacing of the house style
-docs/screenshots/   images for this README
+shot-   images for this README
 ```
 
 ## Contributing
